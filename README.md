@@ -21,6 +21,6 @@ Make sure you have VsCode or anyother IDE installed on your machine.
 git clone https://github.com/ThengdeNitin/Rock_Paper_Scissors.git
 download the live server extension
 go to live server
-go to inspect and then go console follow the instruction
+go to inspect and go console follow the instruction
  
 
