@@ -18,5 +18,9 @@ This repository contains a JavaScript that allows users to play the Rock, Paper,
 Make sure you have VsCode or anyother IDE installed on your machine.
 
 ```bash
-git clone 
+git clone https://github.com/ThengdeNitin/Rock_Paper_Scissors.git
+download the live server extension
+go to live server
+go to inspect and then go console follow the instruction
+ 
 
